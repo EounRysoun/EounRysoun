@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an Information Technology student of National University Of Management in Cambodia. I’m good at programming and design. I spend at least 2 hours a day to learning C program, C++, HTML and other code languages also photoshop’s lesson from youtube and website.
+I am an Information Technology student of National University Of Management in Cambodia. I’m good at programming and design. I spend at least 2 hours a day to learning C program, C++, HTML and other code languages also photoshop’s lesson from youtube and website\n.
 Education:
 2010-2016 : Completed Primary School.
 2016-2019 : Completed Secondary School.
